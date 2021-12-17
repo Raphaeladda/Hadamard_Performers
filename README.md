@@ -2,4 +2,3 @@
 
 This is the final research project of the Machine Learning and High Dimensional Data Mining class taught by Prof. Krzysztof Choromanski at Columbia University. 
 
-You can access the project here: https://raphaeladda.github.io/Hadamard_Performers/
