@@ -7,3 +7,5 @@ We run some fast tests using the numpy implemetation of the FAVOR+ algorithm edi
 These experimentations are available in the notebook Hadamard_performers.ipynb in the fold Experimentations.  
   
 Sheldon ALLEN & Raphael ADDA, Columbia University
+
+12/17/2021
