@@ -6,7 +6,7 @@ This implementation is available on the fold Performers.
 We run some fast tests using the numpy implemetation of the FAVOR+ algorithm edited by Teddy Koker: https://teddykoker.com/2020/11/performers/.  
 These experimentations are available in the notebook Hadamard_performers.ipynb in the fold Experimentations.  
   
-The final report is the file Performer_extension_with Hadamard_Rademacher_Projection_Matrix.pdf
+The final report is available in the file Performer_extension_with Hadamard_Rademacher_Projection_Matrix.pdf
   
 Sheldon ALLEN & Raphael ADDA, Columbia University
 
